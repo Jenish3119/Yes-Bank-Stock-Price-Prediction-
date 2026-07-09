@@ -51,4 +51,4 @@ This repository features deployment-ready, production-grade code. The entire wor
 
 1. Clone this repository locally:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Yes-Bank-Stock-Price-Prediction.git](https://github.com/YOUR_USERNAME/Yes-Bank-Stock-Price-Prediction.git)
+   git clone [https://github.com/Jenish3119/Yes-Bank-Stock-Price-Prediction-.git](https://github.com/Jenish3119/Yes-Bank-Stock-Price-Prediction-.git)
